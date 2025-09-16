@@ -31,14 +31,14 @@
 - **JavaScript (ES6+)**  
 - **React**  
 - **Vite**
-- **Shadcn ui**
+- **Shadcn**
 
 ## 🚀 Как запустить
 
 1. Клонируй репозиторий:
 
 ```bash
-git clone git@github.com:aleksanderlamkov/todo-vanilla.git
+git clone github.com/Dene1/todo-next.demo.git
 ```
 
 2. В консоль написать  ```npm run dev```, в браузере будет рабочий вариант в режиме разработки.
