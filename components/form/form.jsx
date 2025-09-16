@@ -19,7 +19,7 @@ const Form = ({children, onAddTodo}) => {
 
     if (inputValue.trim()) {
       const newTodo = {
-        id: crypto.randomUUID(),
+        id: Date.now(),
         text: inputValue.trim(),
         completed: false,
         createdAt: new Date().toISOString()
