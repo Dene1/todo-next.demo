@@ -8,7 +8,9 @@
 
 Интерфейс взят из бесплатного макета Figma. Выглядит чисто и понятно:
 
-![To Do List Screenshot](./design.png)
+<div align="center">
+        <img src="./design.png" alt="To Do List Screenshot" /></a>
+</div>
 
 🔗 [Ссылка на макет в Figma](https://www.figma.com/design/5g3oOYX6GNlezUCuk1xmaS/To-Do-List)
 
