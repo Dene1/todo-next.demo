@@ -41,4 +41,4 @@
 git clone github.com/Dene1/todo-next.demo.git
 ```
 
-2. В консоль написать  ```bash npm start```, чтобы запустите production версию локально в браузере.
+2. В консоль написать  ```npm start```, чтобы запустите production версию локально в браузере.
